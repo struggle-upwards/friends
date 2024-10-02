@@ -30,7 +30,8 @@ SETTINGS_FRIENDS_LINKS: {
     enable: false,
     json_api: "",
     list: [
-        ["张洪Heo", "https://blog.zhheo.com/", "https://bu.dusays.com/2022/12/28/63ac2812183aa.png"],
+        ["张洪Heo", "https://blog.zhheo.com/", "https://bu.dusays.com/2022/12/28/63ac2812183aa.png","atom.xml"],
+        ["崔亮的博客", "https://www.cuiliangblog.cn/", "https://oss.cuiliangblog.cn/image/logo.png","feed.xml"],
         ["杜老师说", "https://dusays.com/", "https://cdn.dusays.com//favicon.ico"],
         ["xaoxuu", "https://xaoxuu.com/", "https://xaoxuu.com/assets/xaoxuu/avatar/rect-256@2x.png"],
         ["Thun888", "https://blog.hzchu.top/", "https://blog.hzchu.top/img/avatar.webp"],
